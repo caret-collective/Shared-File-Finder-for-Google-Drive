@@ -1,0 +1,43 @@
+{
+	"name": "shared-file-finder-for-google-drive",
+	"version": "1.0.0",
+	"description": "An Apps Script that finds all files/folders on Google Drive that are shared with others and adds them to a Google Sheet.",
+	"keywords": [
+		"apps-script",
+		"google-drive",
+		"google-sheets",
+		"sharing-audit"
+	],
+	"homepage": "https://github.com/caret-collective/Shared-File-Finder-for-Google-Drive#readme",
+	"bugs": {
+		"url": "https://github.com/caret-collective/Shared-File-Finder-for-Google-Drive/issues"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "John Goodliff",
+		"url": "https://johng.io"
+	},
+	"funding": [
+		{
+			"type": "individual",
+			"url": "https://johng.io/funding"
+		},
+		{
+			"type": "GitHub Sponsors",
+			"url": "https://github.com/sponsors/twocaretcat"
+		},
+		{
+			"type": "Patreon",
+			"url": "https://patreon.com/twocaretcat"
+		},
+		{
+			"type": "Brave Creators",
+			"url": "https://publishers.basicattentiontoken.org/en/c/johng"
+		}
+	],
+	"private": true,
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/caret-collective/Shared-File-Finder-for-Google-Drive.git"
+	}
+}
